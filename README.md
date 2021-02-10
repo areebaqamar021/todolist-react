@@ -1,7 +1,5 @@
 # React Hooks todolist
 
-![](./screenshots/homepage.png)
-
 > A simple todolist app built with React Hooks & Context
 
 ## Scripts
