@@ -1,7 +1,6 @@
 # React Hooks todolist
 
 > A simple todolist app built with React Hooks & Context
-demo https://todo-listt-react.herokuapp.com/
 
 ## Scripts
 
