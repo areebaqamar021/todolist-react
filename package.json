@@ -4,11 +4,15 @@
   "private": true,
   "homepage": "https://walkccc.github.io/react-hooks-todolist",
   "dependencies": {
-    "@material-ui/core": "^4.5.2",
-    "@material-ui/styles": "^4.5.2",
-    "react": "^16.11.0",
-    "react-dom": "^16.11.0",
-    "react-scripts": "3.2.0"
+    "@emotion/react": "^11.13.0",
+    "@emotion/styled": "^11.13.0",
+    "@mui/material": "^5.16.4",
+    "ajv": "^8.17.1",
+    "ajv-keywords": "^5.1.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-scripts": "5.0.1",
+    "uuid": "^10.0.0"
   },
   "scripts": {
     "predeploy": "npm run build",
@@ -34,6 +38,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^2.1.1"
+    "gh-pages": "^6.1.1"
   }
 }
